@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/vizai-data-visualization-portal-40600-40629/vizai_ui_frontend"
+}
